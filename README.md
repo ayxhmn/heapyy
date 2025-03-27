@@ -60,8 +60,5 @@ Run tests:
 python -m unittest discover tests
 ```
 
-## 📜 License
-MIT License
-
 ## 🤝 Contributing
 Pull requests are welcome! If you want to add new algorithms or optimize existing ones, feel free to contribute.
